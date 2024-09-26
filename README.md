@@ -1,7 +1,25 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue) 
+![MIT License](https://img.shields.io/badge/License-MIT-yellow)
 
-# Advanced SSH Brute Force Script
+## Overview
 
-This Python script is an advanced SSH brute force attack tool that attempts to crack the password of a given SSH target by trying multiple passwords in parallel. It leverages multi-threading for faster attacks, supports custom SSH ports, and includes robust error handling and logging features.
+This Python script is an advanced SSH brute force attack tool designed to crack the password of a given SSH target by attempting multiple passwords in parallel. It utilizes multi-threading for faster attacks, supports custom SSH ports, and includes robust error handling and logging features.
+
+---
+
+## Table of Contents
+
+1. [Features](#features)
+2. [Requirements](#requirements)
+3. [Usage](#usage)
+4. [Example Output](#example-output)
+5. [Notes](#notes)
+6. [Example Password File Format](#example-password-file-format)
+7. [Contributing](#contributing)
+8. [License](#license)
+9. [Disclaimer](#disclaimer)
+
+---
 
 ## Features
 
@@ -9,8 +27,10 @@ This Python script is an advanced SSH brute force attack tool that attempts to c
 - Customizable SSH port and number of threads.
 - Logging of all attempts (successful and failed) to a log file.
 - Timeout handling for slow server responses.
-- Enhanced error handling to deal with network or connection issues.
+- Enhanced error handling for network or connection issues.
 - Simple and efficient password file queue management.
+
+---
 
 ## Requirements
 
