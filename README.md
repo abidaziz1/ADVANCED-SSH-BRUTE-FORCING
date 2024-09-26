@@ -1,4 +1,4 @@
-# ADVANCED-SSH-BRUTE-FORCING
+
 # Advanced SSH Brute Force Script
 
 This Python script is an advanced SSH brute force attack tool that attempts to crack the password of a given SSH target by trying multiple passwords in parallel. It leverages multi-threading for faster attacks, supports custom SSH ports, and includes robust error handling and logging features.
