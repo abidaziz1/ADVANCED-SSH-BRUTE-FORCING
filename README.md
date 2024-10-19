@@ -6,7 +6,6 @@
 This Python script is an advanced SSH brute force attack tool designed to crack the password of a given SSH target by attempting multiple passwords in parallel. It utilizes multi-threading for faster attacks, supports custom SSH ports, and includes robust error handling and logging features.
 
 ---
-
 ## Table of Contents
 
 1. [Features](#features)
